@@ -101,10 +101,15 @@ export default {
       }, {
         name: 'AIIR',
         path: require('@/assets/project_images/AIIR.png'),
-        description: '"Artificial intelligence by ideMobi for relationships" is a project I am currently working on.\n' +
+        description: '"Artificial intelligence by ideMobi for relationships" is a project I worked on during my last school year.\n' +
         'The goal is to create a tool for video games editors to use on Unity.\n' +
         'This tool will allow you to manage social relationships between characters ! ',
         link: ''
+      }, {
+        name: 'Block Breaker',
+        path: require('@/assets/project_images/BlockBreaker.png'),
+        description: '"Block Breaker" is a small game I worked on to practice the basic functionalities of Unity.',
+        link: 'http://jeremykim.fr/block-breaker/'
       }]
     }
   },

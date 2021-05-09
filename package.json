@@ -1,0 +1,23 @@
+{
+  "name": "vue-website",
+  "version": "1.0.0",
+  "description": "My groundbreaking Nuxt.js project",
+  "author": "Jeremy Kim",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/svg": "^0.1.11",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "bulma": "^0.9.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0"
+  }
+}

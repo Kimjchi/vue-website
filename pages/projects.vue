@@ -110,6 +110,31 @@ export default {
         path: require('@/assets/project_images/BlockBreaker.png'),
         description: '"Block Breaker" is a small game I worked on to practice the basic functionalities of Unity.',
         link: 'http://jeremykim.fr/block-breaker/'
+      }, {
+        name: 'Laser Defender',
+        path: require('@/assets/project_images/LaserDefender.png'),
+        description: 'Continuing on the Unity course, I worked on this classic scroller space game to\n' +
+        'learn new Unity tools such as VFXs, particles, Scriptable Objects, etc..',
+        link: 'http://jeremykim.fr/Laser-Defender/'
+      }, {
+        name: 'Glitch Garden',
+        path: require('@/assets/project_images/GlitchGarden.png'),
+        description: 'This Unity game took the longest to make. A lot of new concepts were introduced during this course.\n' +
+        'But the focus was on the animation tools. This game is based on the famous Plants vs Zombies game with a tower defense system.\n' +
+        'This was a great opportunity for me to understand the animations, sprites and their relationships with the other components.',
+        link: 'http://jeremykim.fr/Glitch-Garden/'
+      }, {
+        name: 'Tilevania',
+        path: require('@/assets/project_images/Tilevania.png'),
+        description: 'The last Unity game of the Udemy course. I was able to learn tiles, tilemaps and how we can\n' +
+        'easily build levels with them. Physics and collision also played a big part of this course.\n' +
+        'This time, the game is a simple platformer where you need to reach the exit.',
+        link: 'http://jeremykim.fr/Tilevania/'
+      }, {
+        name: 'Building Escape',
+        path: require('@/assets/project_images/BuildingEscape.png'),
+        description: 'The goal of this project was to play around with Unreal Engine and try its basic functionalities.',
+        link: 'http://jeremykim.fr/block-breaker/'
       }]
     }
   },

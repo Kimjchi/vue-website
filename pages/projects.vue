@@ -135,6 +135,12 @@ export default {
         path: require('@/assets/project_images/BuildingEscape.png'),
         description: 'The goal of this project was to play around with Unreal Engine and try its basic functionalities.',
         link: 'http://jeremykim.fr/block-breaker/'
+      }, {
+        name: 'Reddit Client',
+        path: require('@/assets/project_images/RedditClient.png'),
+        description: 'This project is part of a CodeCademy curriculum towards a Full-Stack Engineer certificate.\nThe reddit client is focused on the front-end ' +
+        ' and allowed me to work on my React and Redux skills to manage the data flux. I was also able to work on a third party API to get Reddit\'s data.',
+        link: 'https://kimjchi.github.io/reddit-client/'
       }]
     }
   },

@@ -19,7 +19,7 @@
           cols="1"
           class="text-center"
         >
-          <nuxt-link v-if="$vuetify.breakpoint.mdAndUp"  to="/comics">Comics</nuxt-link>
+          <nuxt-link v-if="$vuetify.breakpoint.mdAndUp"  to="/drawings">Drawings</nuxt-link>
         </v-col>
         <v-col
           cols="1"
@@ -99,8 +99,8 @@ export default {
           to: '/'
         },
         {
-          title: 'Comics',
-          to: '/comics'
+          title: 'Drawings',
+          to: '/drawings'
         },
         {
           title: 'Writing',

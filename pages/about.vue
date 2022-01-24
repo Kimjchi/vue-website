@@ -10,7 +10,7 @@
     <v-container class="text-center">
       <h2 style="margin-bottom: 3%">Jérémy Kim</h2>
       <p class="text-justify">
-        I'm a French Data Scientist graduated recently from an engineering school and back in Paris.
+        I'm a French Full Stack Developer graduated from an engineering school and back in Paris.
         After interning 6 months at Smartly.io, I decided to continue my job there as this place is full of extraordinary people.
         I don't know if this is the right way for me but I want to keep going and give it a shot.<br>
         <br>

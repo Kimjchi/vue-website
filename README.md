@@ -20,3 +20,9 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Deployment
+We use surge to deploy this project.
+```
+$ surge dist/ <your-custom-domain>
+```
